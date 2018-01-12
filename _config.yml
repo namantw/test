@@ -22,7 +22,7 @@ navigation: True # show the navbar links
 subscribers: True # you need to connect an external service for this to work,
 # if 'True' the submit button is disabled for now, but you can change that
 # by editing `_includes/subscribe-form.html`
-#twitter: tryghost # replace by your username
+twitter: GoStudents # replace by your username
 #facebook: ghost # replace by your username
 
 # Disqus
@@ -70,7 +70,7 @@ lsi: False
 username: gostudent
 repo: Letsgo
 branch: master
-relative_source: ../jasper2/
+relative_source: ../test/
 destination: ../jasper2-pages/
 production_url:  https://gostudent.github.io/Letsgo/
 source_url:  https://github.com/gostudent/Letsgo/
